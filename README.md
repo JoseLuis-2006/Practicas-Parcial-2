@@ -1,0 +1,2 @@
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/f7ee27c4-cb2c-4bf7-8430-60ec3567945a" />
+Esta carpeta contiene una colección de programas desarrollados en Python utilizando la biblioteca Tkinter para la creación de interfaces gráficas de usuario (GUI). Los programas fueron creados como parte de la evaluación del segundo parcial y demuestran diferentes conceptos de programación orientada a objetos, validación de datos y manipulación de interfaces gráficas.
